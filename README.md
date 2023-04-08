@@ -1,0 +1,2 @@
+# AccountConfig
+Account Service configuration
